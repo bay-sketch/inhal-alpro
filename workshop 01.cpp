@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+	cout <<" PERUBAHAN " <<endl;
 	cout << "===== BIODATA PRIBADI =====\n";
 	cout << "Nama                 : Bayu Riski Patoni\n";
 	cout << "Tempat, Tanggal Lahir: Toban, 27 Desember 2004\n";
